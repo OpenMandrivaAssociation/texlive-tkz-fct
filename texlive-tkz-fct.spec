@@ -6,7 +6,7 @@
 # catalog-version 1.16c
 Name:		texlive-tkz-fct
 Version:	1.16c
-Release:	7
+Release:	8
 Summary:	Tools for drawing graphs of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-fct
