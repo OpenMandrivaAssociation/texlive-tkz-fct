@@ -1,6 +1,6 @@
 Name:		texlive-tkz-fct
 Version:	61949
-Release:	1
+Release:	2
 Summary:	Tools for drawing graphs of functions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-fct
