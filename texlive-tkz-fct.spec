@@ -3,7 +3,7 @@ Version:	61949
 Release:	2
 Summary:	Tools for drawing graphs of functions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-fct
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tkz/tkz-fct
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-fct.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-fct.doc.r%{version}.tar.xz
